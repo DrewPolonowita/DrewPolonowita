@@ -9,6 +9,7 @@ I love creating new projects. I have experiemented in many areas including;
 - server development with my own authenication and user handeling build in express and recreated in rocket
 - file manager / explorer built natively using rust
 - regex API to accept and reject strings using finite automata
+- making playable adventurer games in java
 
 My favourite projects thus far generally involved heavy algorithm used or are built form maths or computer science theories.
 
