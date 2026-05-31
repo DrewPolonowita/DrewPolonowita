@@ -10,7 +10,7 @@ I love creating new projects. I have experiemented in many areas including;
 - file manager / explorer built natively using rust
 - regex API to accept and reject strings using finite automata
 
-My favourite projects thus far generally involved heavy algorithm used or are built form. 
+My favourite projects thus far generally involved heavy algorithm used or are built form maths or computer science theories.
 
 ### 🔭 I’m currently working on
 My very own compiler for my own language. I took massive interest into learning about computational theory which has helped me learn and understand about parsing. \
